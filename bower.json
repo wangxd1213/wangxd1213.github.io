@@ -1,0 +1,13 @@
+{
+  "name": "cmui-demo",
+  "description": "Demo site for CMUI.",
+  "license": "MIT",
+  "homepage": "http://cmui.net/demo/v0/",
+  "dependencies": {
+    "cmui": "^0.9.1"
+  },
+  "authors": [
+    "cssmagic <cssmagic.cn@gmail.com>"
+  ],
+  "private": true
+}
